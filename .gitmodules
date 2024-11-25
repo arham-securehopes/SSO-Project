@@ -1,0 +1,3 @@
+[submodule "SocialMediaManagement"]
+    path = SocialMediaManagement
+    url = https://github.com/CodeSprint01/SSO-Project.git
